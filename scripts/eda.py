@@ -30,4 +30,7 @@ def plot_count_distributions(df, col):
     plt.ylabel('Number of Policyholders')
     plt.show()
 
+def plot_pair_scatter_plot(df):
+    sns.pairplot(df)
+    plt.show()
 
