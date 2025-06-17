@@ -1,0 +1,5 @@
+[core]
+    remote = localstorage
+    autostage = true
+['remote "localstorage"']
+    url = D:\Software Career\Kifiya 10 Academy\week3-insuranse-analytics-and-predictive-modeling\Data_Storage_For_DVC
