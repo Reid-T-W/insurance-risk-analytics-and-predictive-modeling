@@ -4,3 +4,4 @@ data/
 .csv/
 .ipynb_checkpoints/
 *.pkl
+/MachineLearningRating_v3.txt
